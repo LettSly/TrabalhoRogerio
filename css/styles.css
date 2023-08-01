@@ -10977,6 +10977,7 @@ p {
     margin-top: 3rem;
     position: absolute;
   }
+
   .intro .intro-text .intro-button {
     width: 100%;
     left: 0;
@@ -11031,5 +11032,35 @@ p {
 
 .address strong {
   font-size: 1.2rem;
+}
+
+.vantagens-web {
+  width: 70%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 8px;
+  margin: 0;
+  text-align: center;
+}
+
+th {
+  background-color: #C5FAD9;
+}
+
+td {
+  font-size: 15px
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
 

@@ -83,6 +83,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -11165,7 +11166,4 @@ tr:nth-child(even) {
   background-color: #fff;
   border-color: #fff;
 }
-
-
-
 
